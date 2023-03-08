@@ -1,0 +1,22 @@
+
+.product-container img{
+    height: 286px;
+    width: 286px;
+    left: 7px;
+    top: 8px;
+    border-radius: 8px;
+    
+}
+.product-container{
+    width: 300px;
+height: 508px;
+    border: 4px solid orange;
+    margin: 5px;
+    border-radius: 5px;
+    position: relative;
+    
+}
+.cart-button {
+    /* position: absolute; */
+align-items: center;
+}
